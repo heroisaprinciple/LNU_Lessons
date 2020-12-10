@@ -1,0 +1,12 @@
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\bin\Debug\netcoreapp3.1\Lab 5. N 5.exe
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\bin\Debug\netcoreapp3.1\Lab 5. N 5.deps.json
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\bin\Debug\netcoreapp3.1\Lab 5. N 5.runtimeconfig.json
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\bin\Debug\netcoreapp3.1\Lab 5. N 5.runtimeconfig.dev.json
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\bin\Debug\netcoreapp3.1\Lab 5. N 5.dll
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\bin\Debug\netcoreapp3.1\Lab 5. N 5.pdb
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\obj\Debug\netcoreapp3.1\Lab 5. N 5.AssemblyInfoInputs.cache
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\obj\Debug\netcoreapp3.1\Lab 5. N 5.AssemblyInfo.cs
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\obj\Debug\netcoreapp3.1\Lab 5. N 5.csproj.CoreCompileInputs.cache
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\obj\Debug\netcoreapp3.1\Lab 5. N 5.dll
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\obj\Debug\netcoreapp3.1\Lab 5. N 5.pdb
+D:\ArInA-C#\Lab 5. N 5\Lab 5. N 5\obj\Debug\netcoreapp3.1\Lab 5. N 5.genruntimeconfig.cache

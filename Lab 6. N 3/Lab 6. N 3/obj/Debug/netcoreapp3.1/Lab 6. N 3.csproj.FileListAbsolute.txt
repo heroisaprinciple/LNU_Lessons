@@ -1,0 +1,13 @@
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\bin\Debug\netcoreapp3.1\Lab 6. N 3.exe
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\bin\Debug\netcoreapp3.1\Lab 6. N 3.deps.json
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\bin\Debug\netcoreapp3.1\Lab 6. N 3.runtimeconfig.json
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\bin\Debug\netcoreapp3.1\Lab 6. N 3.runtimeconfig.dev.json
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\bin\Debug\netcoreapp3.1\Lab 6. N 3.dll
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\bin\Debug\netcoreapp3.1\Lab 6. N 3.pdb
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\obj\Debug\netcoreapp3.1\Lab 6. N 3.csprojAssemblyReference.cache
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\obj\Debug\netcoreapp3.1\Lab 6. N 3.AssemblyInfoInputs.cache
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\obj\Debug\netcoreapp3.1\Lab 6. N 3.AssemblyInfo.cs
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\obj\Debug\netcoreapp3.1\Lab 6. N 3.csproj.CoreCompileInputs.cache
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\obj\Debug\netcoreapp3.1\Lab 6. N 3.dll
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\obj\Debug\netcoreapp3.1\Lab 6. N 3.pdb
+D:\ArInA-C#\Lab 6. N 3\Lab 6. N 3\obj\Debug\netcoreapp3.1\Lab 6. N 3.genruntimeconfig.cache
