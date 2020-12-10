@@ -1,0 +1,13 @@
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\bin\Debug\netcoreapp3.1\Lab 5. N 1.exe
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\bin\Debug\netcoreapp3.1\Lab 5. N 1.deps.json
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\bin\Debug\netcoreapp3.1\Lab 5. N 1.runtimeconfig.json
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\bin\Debug\netcoreapp3.1\Lab 5. N 1.runtimeconfig.dev.json
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\bin\Debug\netcoreapp3.1\Lab 5. N 1.dll
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\bin\Debug\netcoreapp3.1\Lab 5. N 1.pdb
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\obj\Debug\netcoreapp3.1\Lab 5. N 1.csprojAssemblyReference.cache
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\obj\Debug\netcoreapp3.1\Lab 5. N 1.AssemblyInfoInputs.cache
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\obj\Debug\netcoreapp3.1\Lab 5. N 1.AssemblyInfo.cs
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\obj\Debug\netcoreapp3.1\Lab 5. N 1.csproj.CoreCompileInputs.cache
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\obj\Debug\netcoreapp3.1\Lab 5. N 1.dll
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\obj\Debug\netcoreapp3.1\Lab 5. N 1.pdb
+D:\CaRoLiN-C#\Lab 5. N 1\Lab 5. N 1\obj\Debug\netcoreapp3.1\Lab 5. N 1.genruntimeconfig.cache
